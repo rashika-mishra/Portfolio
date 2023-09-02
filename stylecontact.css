@@ -1,0 +1,81 @@
+body{
+    background-color:#001C30 ;
+}
+h2{
+    color:#64ccc5;
+    font-size: 30px;
+    position:absolute;
+    bottom:500px;
+    left:80px;
+    font-family: cursive;
+}
+#b1{
+    color: #64ccc5;
+    font-size: 20px;
+    font-family: cursive;
+    position: absolute;
+    bottom: 450px;
+    left:100px;
+
+}
+#b2{
+    color:white;
+    font-size: 15px;
+    font-family: cursive;
+    position: absolute;
+    bottom: 445px;
+    left:100px;
+}
+#b3{
+    color: #64ccc5;
+    font-size: 20px;
+    font-family: cursive;
+    position: absolute;
+    bottom: 390px;
+    left:100px;
+}
+#b4{
+    color:white;
+    font-size: 15px;
+    font-family: cursive;
+    position: absolute;
+    bottom: 385px;
+    left:100px;
+}
+#b5{
+    color: #64ccc5;
+    font-size: 20px;
+    font-family: cursive;
+    position: absolute;
+    bottom: 330px;
+    left:100px;
+}
+#b6{
+    color:white;
+    font-size: 15px;
+    font-family: cursive;
+    position: absolute;
+    bottom: 325px;
+    left:100px;
+}
+#b7{
+    color: #64ccc5;
+    font-size: 20px;
+    font-family: cursive;
+    position: absolute;
+    bottom: 270px;
+    left:100px;
+}
+#b8{
+    color:white;
+    font-size: 15px;
+    font-family: cursive;
+    position: absolute;
+    bottom: 265px;
+    left:100px;
+}
+#b9{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
